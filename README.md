@@ -4,6 +4,7 @@ Log Archiving and Analytics using Spark
 Enable ElasticSearch Log Retention and Analytics
 
 Benefits:
+
 1, Long term log archiving  
 
 2, Reducing Storage Space 
